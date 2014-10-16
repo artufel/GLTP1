@@ -1,2 +1,2 @@
 # Ecriture Hello World
-echo "Hello YOU !!!"
+echo "Hello People !!!"
